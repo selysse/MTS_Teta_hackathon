@@ -1,6 +1,9 @@
 <h1 align="center">Hosts classifier</h1>
 <p align="center"><b>Сервис для классификации хостов на технические и user-friendly<br>Решение команды V3.0 на MTS.Teta Hackathon</b></p>
 
+[!this](https://github.com/selysse/MTS_Teta_hackathon/tree/master/models/host.gif)
+
+
 ### Построение модели
 [`main.ipynb`](https://github.com/selysse/MTS_Teta_hackathon/blob/master/main.ipynb)  
 Стек: Python + Pandas, CatBoost, requests и др. (см. [`requirements.txt`](https://github.com/selysse/MTS_Teta_hackathon/blob/master/requirements.txt))
